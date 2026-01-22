@@ -1,1 +1,2 @@
 Hello, world.
+Linha alterada via aplicação.
