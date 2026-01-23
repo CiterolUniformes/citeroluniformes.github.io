@@ -36,4 +36,13 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
+  <rota name="MG" cidade="TEIXEIRAS">
+    <data>30/01/2026</data>
+    <nomeCurto> </nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 12:00 às 15:00</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
 </dados>
