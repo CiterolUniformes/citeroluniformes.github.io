@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dados xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <rota name="MG" cidade="ARAXÁ">
-    <data>04/11/2025</data>
-    <nomeCurto>37ºBPM - CANCELADO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="MANHUAÇU">
-    <data>04/11/2025</data>
-    <nomeCurto>11ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="PATROCÍNIO">
     <data>04/11/2025</data>
     <nomeCurto>PENITENCIÁRIA</nomeCurto>
