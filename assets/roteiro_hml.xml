@@ -18,4 +18,13 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
+  <rota name="MG" cidade="MADRE DE DEUS DE MINAS">
+    <data>26/01/2026</data>
+    <nomeCurto> </nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 09:00 às 14:00</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
 </dados>
