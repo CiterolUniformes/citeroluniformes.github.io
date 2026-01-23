@@ -18,15 +18,6 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="PATROCÍNIO">
-    <data>04/11/2025</data>
-    <nomeCurto>PENITENCIÁRIA</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 14:30 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="UNAÍ">
     <data>04/11/2025</data>
     <nomeCurto>28ºBPM</nomeCurto>
