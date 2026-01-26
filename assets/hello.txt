@@ -1,3 +1,0 @@
-Hello, world.
-Linha alterada via aplicação.
-Teste inclusão comentário - git app
