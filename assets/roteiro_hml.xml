@@ -18,7 +18,7 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="CONTAGEM">
+  <rota name="MG" cidade="TEIXEIRAS">
     <data>29/01/2026</data>
     <nomeCurto>PÁTIO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
@@ -42,6 +42,15 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 12:00</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
+  <rota name="MG" cidade="ABADIA DOS DOURADOS">
+    <data>29/01/2026</data>
+    <nomeCurto>TESTE</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 15:00 às 20:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
