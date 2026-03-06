@@ -1044,6 +1044,15 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
+  <rota name="MG" cidade="UNAÍ">
+    <data>10/03/2026</data>
+    <nomeCurto>28ºBPM</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 08:00 às 16:00</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
   <rota name="MG" cidade="VARGINHA">
     <data>30/03/2026</data>
     <nomeCurto>PRESÍDIO</nomeCurto>
