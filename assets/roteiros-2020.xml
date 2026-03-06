@@ -101,7 +101,7 @@
   </rota>
   <rota name="MG" cidade="ARAGUARI">
     <data>10/03/2026</data>
-    <nomeCurto>53ºBPM</nomeCurto>
+    <nomeCurto>53ºBPM (CANCELADO)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 11:00</horario>
@@ -110,7 +110,7 @@
   </rota>
   <rota name="MG" cidade="ARAGUARI">
     <data>10/03/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
+    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 13:00 às 14:00</horario>
@@ -245,7 +245,7 @@
   </rota>
   <rota name="MG" cidade="CARMO DO PARANAÍBA">
     <data>13/03/2026</data>
-    <nomeCurto>COMPLEXO PENITENCIÁRIO</nomeCurto>
+    <nomeCurto>C.PENIT.(CANCELADO)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 10:00</horario>
@@ -702,6 +702,15 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
+  <rota name="MG" cidade="PARACATU">
+    <data>11/03/2026</data>
+    <nomeCurto>45ºBPM</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 08:00 às 12:00</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
   <rota name="MG" cidade="PASSOS">
     <data>16/03/2026</data>
     <nomeCurto>PRESÍDIO</nomeCurto>
@@ -722,7 +731,7 @@
   </rota>
   <rota name="MG" cidade="PATOS DE MINAS">
     <data>11/03/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
+    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 16:30 às 17:30</horario>
@@ -731,16 +740,16 @@
   </rota>
   <rota name="MG" cidade="PATOS DE MINAS">
     <data>12/03/2026</data>
-    <nomeCurto>15ºBPM</nomeCurto>
+    <nomeCurto>15ºBPM (NOVO HORÁRIO)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 13:00</horario>
+    <horario>Horário de 08:00 às 15:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="PATOS DE MINAS">
     <data>12/03/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
+    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 14:00 às 16:00</horario>
@@ -749,7 +758,7 @@
   </rota>
   <rota name="MG" cidade="PATROCÍNIO">
     <data>10/03/2026</data>
-    <nomeCurto>PENITENCIÁRIA</nomeCurto>
+    <nomeCurto>PENITENCIÁRIA (CANCELADO)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 16:30 às 17:30</horario>
@@ -758,16 +767,16 @@
   </rota>
   <rota name="MG" cidade="PATROCÍNIO">
     <data>11/03/2026</data>
-    <nomeCurto>46ºBPM</nomeCurto>
+    <nomeCurto>46ºBPM (NOVO HORÁRIO)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
+    <horario>Horário de 16:00 às 18:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="PATROCÍNIO">
     <data>11/03/2026</data>
-    <nomeCurto>PENITENCIÁRIA</nomeCurto>
+    <nomeCurto>PENITENCIÁRIA (CANCELADO)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 13:00 às 14:30</horario>
