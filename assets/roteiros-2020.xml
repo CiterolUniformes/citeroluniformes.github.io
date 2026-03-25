@@ -1,59 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dados xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <rota name="MG" cidade="ALÉM PARAÍBA">
-    <data>18/03/2026</data>
-    <nomeCurto>68ºBPM (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 09:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ALÉM PARAÍBA">
-    <data>18/03/2026</data>
-    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 10:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ALFENAS">
-    <data>18/03/2026</data>
-    <nomeCurto>64ºBPM (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ALFENAS">
-    <data>18/03/2026</data>
-    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 11:30 às 14:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ARAÇUAÍ">
-    <data>12/03/2026</data>
-    <nomeCurto>70ºBPM (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 09:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ARAÇUAÍ">
-    <data>12/03/2026</data>
-    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 10:00 às 11:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="BARBACENA">
     <data>25/03/2026</data>
     <nomeCurto>9ºBPM</nomeCurto>
@@ -90,60 +36,6 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="BOA ESPERANÇA">
-    <data>18/03/2026</data>
-    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="BOA ESPERANÇA">
-    <data>19/03/2026</data>
-    <nomeCurto>24ºBPM (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="CARATINGA">
-    <data>12/03/2026</data>
-    <nomeCurto>62ºBPM (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="CARATINGA">
-    <data>12/03/2026</data>
-    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 12:00 às 14:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="CARMO DO PARANAÍBA">
-    <data>13/03/2026</data>
-    <nomeCurto>C.PENIT.(CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="CATAGUASES">
-    <data>18/03/2026</data>
-    <nomeCurto>68ºBPM (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 13:30 às 14:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="CONSELHEIRO LAFAIETE">
     <data>27/03/2026</data>
     <nomeCurto>31ºBPM</nomeCurto>
@@ -163,53 +55,26 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="CURVELO">
-    <data>01/04/2026</data>
-    <nomeCurto>42ºBPM/CBMMG</nomeCurto>
+    <data>31/03/2026</data>
+    <nomeCurto>42ºBPM/CBMMG ( ALTERADO)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 14:00</horario>
+    <horario>Horário de 10:00 às 15:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="CURVELO">
-    <data>01/04/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
+    <data>31/03/2026</data>
+    <nomeCurto>PRESÍDIO ( ALTERADO)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 14:30 às 16:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="DIAMANTINA">
-    <data>16/03/2026</data>
-    <nomeCurto>3ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 15:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="DIAMANTINA">
-    <data>17/03/2026</data>
-    <nomeCurto>3ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="DIAMANTINA">
-    <data>18/03/2026</data>
-    <nomeCurto>3ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 13:00</horario>
+    <horario>Horário de 15:30 às 16:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="DIAMANTINA">
     <data>31/03/2026</data>
-    <nomeCurto>3ºBPM</nomeCurto>
+    <nomeCurto>3ºBPM (CANCELADA)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 15:30</horario>
@@ -243,9 +108,9 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="EUGENÓPOLIS">
-    <data>17/03/2026</data>
-    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
+  <rota name="MG" cidade="EIGENÓPOLIS">
+    <data>31/03/2026</data>
+    <nomeCurto>PRESÍDIO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 15:00 às 16:00</horario>
@@ -262,74 +127,11 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="GOVERNADOR VALADARES">
-    <data>12/03/2026</data>
-    <nomeCurto>6ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 13:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GOVERNADOR VALADARES">
-    <data>13/03/2026</data>
-    <nomeCurto>6ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 09:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GOVERNADOR VALADARES">
-    <data>18/03/2026</data>
-    <nomeCurto>6ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 15:30 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GOVERNADOR VALADARES">
-    <data>19/03/2026</data>
-    <nomeCurto>6ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GOVERNADOR VALADARES">
-    <data>20/03/2026</data>
-    <nomeCurto>6ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 09:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GOVERNADOR VALADARES">
     <data>26/03/2026</data>
     <nomeCurto>PACA (CANCELADA)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 14:00 às 15:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GUAXUPÉ">
-    <data>18/03/2026</data>
-    <nomeCurto>43ºBPM (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GUAXUPÉ (CANCELADO)">
-    <data>17/03/2026</data>
-    <nomeCurto> </nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 15:30 às 17:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -339,15 +141,6 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ITAJUBÁ">
-    <data>24/03/2026</data>
-    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 15:30 às 17:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -369,51 +162,6 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="ITAOBIM">
-    <data>12/03/2026</data>
-    <nomeCurto>PRESÍDIO(CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 13:00 às 14:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="LAVRAS">
-    <data>18/03/2026</data>
-    <nomeCurto>8ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 11:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="LAVRAS">
-    <data>19/03/2026</data>
-    <nomeCurto>PRESÍDIO ( CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="LAVRAS">
-    <data>19/03/2026</data>
-    <nomeCurto>8ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="LAVRAS">
-    <data>20/03/2026</data>
-    <nomeCurto>8ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="LAVRAS">
     <data>02/04/2026</data>
     <nomeCurto>8ºBPM</nomeCurto>
@@ -423,18 +171,9 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="MONTE SANTO DE MINAS">
-    <data>18/03/2026</data>
-    <nomeCurto>43ºBPM (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 13:00 às 14:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="MURIAÉ">
-    <data>17/03/2026</data>
-    <nomeCurto>47ºBPM (CANCELADO)</nomeCurto>
+    <data>31/03/2026</data>
+    <nomeCurto>47º BPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 11:00</horario>
@@ -442,8 +181,8 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="MURIAÉ">
-    <data>17/03/2026</data>
-    <nomeCurto>PENITENCIÁRIA (CANCELADO)</nomeCurto>
+    <data>31/03/2026</data>
+    <nomeCurto>PENITENCIÁRIA</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 13:00 às 14:00</horario>
@@ -477,105 +216,6 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="PASSOS">
-    <data>16/03/2026</data>
-    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:30 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PASSOS">
-    <data>23/03/2026</data>
-    <nomeCurto>12ºBPM / CBMMG</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PASSOS">
-    <data>24/03/2026</data>
-    <nomeCurto>12ºBPM / CBMMG</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PATOS DE MINAS">
-    <data>12/03/2026</data>
-    <nomeCurto>15ºBPM (NOVO HORÁRIO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 15:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PATOS DE MINAS">
-    <data>12/03/2026</data>
-    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 14:00 às 16:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="POÇOS DE CALDAS">
-    <data>17/03/2026</data>
-    <nomeCurto>18ªRPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="POÇOS DE CALDAS">
-    <data>17/03/2026</data>
-    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 14:30 às 16:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="POÇOS DE CALDAS">
-    <data>23/03/2026</data>
-    <nomeCurto>18ªRPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="POÇOS DE CALDAS">
-    <data>24/03/2026</data>
-    <nomeCurto>18ªRPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 16:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PONTE NOVA">
-    <data>12/03/2026</data>
-    <nomeCurto>COMPLEXO PENITENCIÁRIO (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:30 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PONTE NOVA">
-    <data>13/03/2026</data>
-    <nomeCurto>21ªCIA PM IND (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="POUSO ALEGRE">
     <data>25/03/2026</data>
     <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
@@ -603,45 +243,9 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="SÃO JOÃO DEL REI">
-    <data>23/03/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 17:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="SÃO JOÃO DEL REI">
-    <data>24/03/2026</data>
-    <nomeCurto>38ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 13:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="SÃO JOÃO DEL REI">
-    <data>24/03/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 14:00 às 16:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="SÃO SEBASTIÃO DO PARAÍSO">
-    <data>18/03/2026</data>
-    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="SÃO SEBASTIÃO DO PARAÍSO">
-    <data>19/03/2026</data>
-    <nomeCurto>43ºBPM (CANCELADO)</nomeCurto>
+  <rota name="MG" cidade="SETE LAGOAS">
+    <data>01/04/2026</data>
+    <nomeCurto>CTPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 14:00</horario>
@@ -649,20 +253,20 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="SETE LAGOAS">
-    <data>19/03/2026</data>
-    <nomeCurto>19ªRPM</nomeCurto>
+    <data>01/04/2026</data>
+    <nomeCurto>PRESÍDIO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 18:00</horario>
+    <horario>Horário de 15:00 às 16:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="SETE LAGOAS">
-    <data>20/03/2026</data>
+    <data>01/04/2026</data>
     <nomeCurto>19ªRPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 13:00</horario>
+    <horario>Horário de 16:30 às 18:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -672,24 +276,6 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 14:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="TEÓFILO OTONI">
-    <data>17/03/2026</data>
-    <nomeCurto>19ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="TEÓFILO OTONI">
-    <data>18/03/2026</data>
-    <nomeCurto>19ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -720,27 +306,9 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="TRÊS PONTAS">
-    <data>19/03/2026</data>
-    <nomeCurto>24ºBPM (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 12:00 às 14:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="UBÁ">
-    <data>18/03/2026</data>
-    <nomeCurto>PRESÍDIO (CANCELADO)</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:30 às 17:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="UBÁ">
-    <data>19/03/2026</data>
-    <nomeCurto>21ºBPM (CANCELADO)</nomeCurto>
+    <data>01/04/2026</data>
+    <nomeCurto>21º BPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 17:00</horario>
@@ -775,8 +343,8 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="VIÇOSA">
-    <data>20/03/2026</data>
-    <nomeCurto>10ªCIA PM IND (CANCELADO)</nomeCurto>
+    <data>02/04/2026</data>
+    <nomeCurto>10ª CIA PM IND</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 10:00</horario>
