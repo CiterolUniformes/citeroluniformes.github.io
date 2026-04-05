@@ -2,7 +2,7 @@
 <dados xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <rota name="MG" cidade="ABAETÉ">
     <data>09/04/2026</data>
-    <nomeCurto>7ºBPM/PRESÍDIO</nomeCurto>
+    <nomeCurto>7ºBPM / PRESÍDIO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 10:30 às 12:00</horario>
@@ -243,30 +243,21 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="GOV.VALADARES">
-    <data>24/04/2026</data>
-    <nomeCurto>6ºBPM..</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 09:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GOVERNADOE VALADARES">
-    <data>15/04/2026</data>
-    <nomeCurto>6ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 15:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="GOVERNADOR VALADARES">
     <data>10/04/2026</data>
     <nomeCurto>6ºBPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 09:00</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
+  <rota name="MG" cidade="GOVERNADOR VALADARES">
+    <data>15/04/2026</data>
+    <nomeCurto>6ºBPM</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 08:00 às 15:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -303,6 +294,15 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 15:00 às 18:00</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
+  <rota name="MG" cidade="GOVERNADOR VALADARES">
+    <data>24/04/2026</data>
+    <nomeCurto>6ºBPM</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 08:00 às 09:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -406,15 +406,6 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="LAVRAS">
-    <data>02/04/2026</data>
-    <nomeCurto>8ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="LAVRAS">
     <data>27/04/2026</data>
     <nomeCurto>8ºBPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
@@ -461,7 +452,7 @@
   </rota>
   <rota name="MG" cidade="MONTE AZUL">
     <data>15/04/2026</data>
-    <nomeCurto>51ºBPM/PRESÍDIO</nomeCurto>
+    <nomeCurto>51ºBPM / PRESÍDIO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 11:00 às 12:00</horario>
@@ -488,7 +479,7 @@
   </rota>
   <rota name="MG" cidade="MURIAÉ">
     <data>23/04/2026</data>
-    <nomeCurto>PENITENCIÁRIA.</nomeCurto>
+    <nomeCurto>PENITENCIÁRIA</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 13:00 às 14:30</horario>
@@ -524,7 +515,7 @@
   </rota>
   <rota name="MG" cidade="PASSOS">
     <data>27/04/2026</data>
-    <nomeCurto>12ºBPM/CBMMG</nomeCurto>
+    <nomeCurto>12ºBPM / CBMMG</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 16:00 às 18:00</horario>
@@ -533,7 +524,7 @@
   </rota>
   <rota name="MG" cidade="PASSOS">
     <data>28/04/2026</data>
-    <nomeCurto>12ºBPM/CBMMG.</nomeCurto>
+    <nomeCurto>12ºBPM / CBMMG</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 11:00</horario>
@@ -587,7 +578,7 @@
   </rota>
   <rota name="MG" cidade="PATROCÍNIO">
     <data>15/04/2026</data>
-    <nomeCurto>PENITENCIÁRIA.</nomeCurto>
+    <nomeCurto>PENITENCIÁRIA</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 13:30 às 14:30</horario>
@@ -614,7 +605,7 @@
   </rota>
   <rota name="MG" cidade="PIRAPORA">
     <data>07/04/2026</data>
-    <nomeCurto>55ºBPM/CBMMG</nomeCurto>
+    <nomeCurto>55ºBPM / CBMMG</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 11:00</horario>
@@ -632,7 +623,7 @@
   </rota>
   <rota name="MG" cidade="PIRAPORA">
     <data>10/04/2026</data>
-    <nomeCurto>55ºBPM/CBMMG</nomeCurto>
+    <nomeCurto>55ºBPM / CBMMG</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 10:00</horario>
@@ -668,7 +659,7 @@
   </rota>
   <rota name="MG" cidade="SÃO FRANCISCO">
     <data>08/04/2026</data>
-    <nomeCurto>PMMG/PRESÍDIO</nomeCurto>
+    <nomeCurto>PMMG / PRESÍDIO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 11:00</horario>
@@ -685,15 +676,6 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="SETE LAGOAS">
-    <data>02/04/2026</data>
-    <nomeCurto>19ªRPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 14:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="SETE LAGOAS">
     <data>23/04/2026</data>
     <nomeCurto>19ªRPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
@@ -704,7 +686,7 @@
   </rota>
   <rota name="MG" cidade="SETE LAGOAS">
     <data>24/04/2026</data>
-    <nomeCurto>19ªRPM.</nomeCurto>
+    <nomeCurto>19ªRPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 10:00</horario>
@@ -780,15 +762,6 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 16:00 às 17:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="VIÇOSA">
-    <data>02/04/2026</data>
-    <nomeCurto>10ª CIA PM IND</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
