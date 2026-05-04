@@ -460,20 +460,20 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="LAVRAS">
-    <data>07/05/2026</data>
+    <data>04/05/2026</data>
     <nomeCurto>8ºBPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 18:00</horario>
+    <horario>Horário de 16:00 às 18:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="LAVRAS">
-    <data>08/05/2026</data>
+    <data>05/05/2026</data>
     <nomeCurto>8ºBPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
+    <horario>Horário de 08:00 às 15:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -676,7 +676,7 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="POÇOS DE CALDAS">
-    <data>05/05/2026</data>
+    <data>07/05/2026</data>
     <nomeCurto>18ªRPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
@@ -685,11 +685,11 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="POÇOS DE CALDAS">
-    <data>06/05/2026</data>
+    <data>08/05/2026</data>
     <nomeCurto>18ªRPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 15:00</horario>
+    <horario>Horário de 08:00 às 10:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
