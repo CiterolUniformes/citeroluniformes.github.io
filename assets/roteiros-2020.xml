@@ -379,11 +379,11 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="GOVERNADOR VALADARES">
-    <data>11/06/2026</data>
+    <data>10/06/2026</data>
     <nomeCurto>6ºBPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 15:00</horario>
+    <horario>Horário de 08:00 às 16:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -522,15 +522,6 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="JOÃO MONLEVADE">
-    <data>12/06/2026</data>
-    <nomeCurto>17ªCIA PM IND</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 09:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="LAVRAS">
     <data>03/06/2026</data>
     <nomeCurto>8ºBPM</nomeCurto>
@@ -555,6 +546,24 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 11:00</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
+  <rota name="MG" cidade="MANHUAÇU">
+    <data>11/06/2026</data>
+    <nomeCurto>11ºBPM</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 08:00 às 18:00</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
+  <rota name="MG" cidade="MANHUAÇU">
+    <data>12/06/2026</data>
+    <nomeCurto>11ºBPM</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 08:00 às 09:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -932,16 +941,7 @@
     <nomeCurto>19ºBPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="TEÓFILO OTONI">
-    <data>10/06/2026</data>
-    <nomeCurto>19ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 16:00</horario>
+    <horario>Horário de 08:00 às 15:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
