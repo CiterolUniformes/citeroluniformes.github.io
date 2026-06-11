@@ -20,7 +20,7 @@
   </rota>
   <rota name="MG" cidade="ALFENAS">
     <data>17/06/2026</data>
-    <nomeCurto>64ºBPM</nomeCurto>
+    <nomeCurto>64ºBPM - CANCELADO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 10:30</horario>
@@ -29,7 +29,7 @@
   </rota>
   <rota name="MG" cidade="ALFENAS">
     <data>17/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
+    <nomeCurto>PRESÍDIO - CANCELADO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 11:30 às 14:30</horario>
@@ -802,11 +802,11 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="POÇOS DE CALDAS">
-    <data>16/06/2026</data>
-    <nomeCurto>18ªRPM</nomeCurto>
+    <data>17/06/2026</data>
+    <nomeCurto>18ªRPM - ALTERADO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 16:00</horario>
+    <horario>Horário de 08:00 às 15:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -825,6 +825,24 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 09:30</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
+  <rota name="MG" cidade="POUSO ALEGRE">
+    <data>15/06/2026</data>
+    <nomeCurto>20ºBPM</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 16:00 às 18:00</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
+  <rota name="MG" cidade="POUSO ALEGRE">
+    <data>16/06/2026</data>
+    <nomeCurto>20ºBPM</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 08:00 às 15:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -983,7 +1001,7 @@
   </rota>
   <rota name="MG" cidade="VARGINHA">
     <data>17/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
+    <nomeCurto>PRESÍDIO - CANCELADO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 16:00 às 18:00</horario>
