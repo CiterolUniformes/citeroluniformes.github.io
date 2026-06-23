@@ -18,87 +18,6 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="ALFENAS">
-    <data>17/06/2026</data>
-    <nomeCurto>64ºBPM - CANCELADO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ALFENAS">
-    <data>17/06/2026</data>
-    <nomeCurto>PRESÍDIO - CANCELADO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 11:30 às 14:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ALMENARA">
-    <data>17/06/2026</data>
-    <nomeCurto>44ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 10:30 às 12:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ALMENARA">
-    <data>17/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 13:00 às 14:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ARAÇUAÍ">
-    <data>17/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:30 às 17:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ARAÇUAÍ">
-    <data>18/06/2026</data>
-    <nomeCurto>70ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ARAÇUAÍ">
-    <data>18/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 10:30 às 12:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ARAGUARI">
-    <data>16/06/2026</data>
-    <nomeCurto>53ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ARAGUARI">
-    <data>16/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 13:00 às 14:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="BARBACENA">
     <data>24/06/2026</data>
     <nomeCurto>9ºBPM</nomeCurto>
@@ -135,54 +54,18 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="BOA ESPERANÇA">
-    <data>02/06/2026</data>
-    <nomeCurto>24ºBPM</nomeCurto>
+  <rota name="MG" cidade="BOCAIÚVA">
+    <data>02/07/2026</data>
+    <nomeCurto>210ª CIA PM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="BOM DESPACHO">
-    <data>02/06/2026</data>
-    <nomeCurto>7ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 12:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="BRASÍLIA DE MINAS">
-    <data>10/06/2026</data>
-    <nomeCurto>13ªCIAPM IND</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 13:00 às 14:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="CAMPO BELO">
-    <data>01/06/2026</data>
-    <nomeCurto>8ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 15:30 às 16:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="CAMPOS GERAIS">
-    <data>02/06/2026</data>
-    <nomeCurto>64ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 13:00 às 14:00</horario>
+    <horario>Horário de 14:30 às 15:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="CARATINGA">
     <data>01/07/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
+    <nomeCurto>PRESÍDIO - (CANCELADA)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 15:30 às 18:00</horario>
@@ -191,7 +74,7 @@
   </rota>
   <rota name="MG" cidade="CARATINGA">
     <data>02/07/2026</data>
-    <nomeCurto>62ºBPM</nomeCurto>
+    <nomeCurto>62ºBPM - (CANCELADA)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 11:00</horario>
@@ -200,7 +83,7 @@
   </rota>
   <rota name="MG" cidade="CARATINGA">
     <data>02/07/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
+    <nomeCurto>PRESÍDIO - (CANCELADA)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 12:00 às 14:00</horario>
@@ -243,66 +126,12 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="CORAÇÃO DE JESUS">
-    <data>09/06/2026</data>
-    <nomeCurto>10ºBPM</nomeCurto>
+  <rota name="MG" cidade="CORINTO">
+    <data>03/07/2026</data>
+    <nomeCurto>219ª CIA PM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 15:00 às 16:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="CURVELO">
-    <data>10/06/2026</data>
-    <nomeCurto>42ºBPM/CBMMG</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 14:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="CURVELO">
-    <data>10/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 14:30 às 16:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="DIAMANTINA">
-    <data>08/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 17:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="DIAMANTINA">
-    <data>09/06/2026</data>
-    <nomeCurto>3ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 16:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="DIVINÓPOLIS">
-    <data>02/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 15:00 às 17:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="DIVINÓPOLIS">
-    <data>03/06/2026</data>
-    <nomeCurto>7ªRPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 12:00</horario>
+    <horario>Horário de 08:00 às 09:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -317,46 +146,46 @@
   </rota>
   <rota name="MG" cidade="ESPERA FELIZ">
     <data>30/06/2026</data>
-    <nomeCurto>11ºBPM</nomeCurto>
+    <nomeCurto>11ºBPM - (CANCELADA)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 10:30 às 11:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="EUGENÓPOLIS">
+  <rota name="MG" cidade="ESPINOSA">
+    <data>01/07/2026</data>
+    <nomeCurto>51º BPM</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 08:00 às 09:30</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
+  <rota name="MG" cidade="FRANCISCO SÁ">
+    <data>02/07/2026</data>
+    <nomeCurto>13ª CIA PM IND</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 08:00 às 09:30</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
+  <rota name="MG" cidade="FRANCISCO SÁ">
+    <data>02/07/2026</data>
+    <nomeCurto>PENITENCIÁRIA</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 10:30 às 11:30</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
+  <rota name="MG" cidade="FRUTAL">
     <data>30/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
+    <nomeCurto>69ºBPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 15:00 às 16:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="FORMIGA">
-    <data>01/06/2026</data>
-    <nomeCurto>PENITENCIÁRIA</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 14:00 às 17:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="FORMIGA">
-    <data>02/06/2026</data>
-    <nomeCurto>63ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="FORMIGA">
-    <data>02/06/2026</data>
-    <nomeCurto>PENITENCIÁRIA</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 10:30 às 12:00</horario>
+    <horario>Horário de 08:00 às 11:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -375,24 +204,6 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 12:30 às 14:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GOVERNADOR VALADARES">
-    <data>10/06/2026</data>
-    <nomeCurto>6ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 16:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GOVERNADOR VALADARES">
-    <data>19/06/2026</data>
-    <nomeCurto>6ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 09:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -441,24 +252,6 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="ITAOBIM">
-    <data>16/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 17:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ITAOBIM">
-    <data>17/06/2026</data>
-    <nomeCurto>70ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 09:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="ITAPAGIPE">
     <data>30/06/2026</data>
     <nomeCurto>69ºBPM</nomeCurto>
@@ -474,15 +267,6 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 16:00 às 17:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="ITUIUTABA">
-    <data>02/07/2026</data>
-    <nomeCurto>54ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -504,39 +288,21 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="JANUÁRIA">
-    <data>10/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 17:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="JANUÁRIA">
-    <data>11/06/2026</data>
-    <nomeCurto>30ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 13:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="LAVRAS">
-    <data>03/06/2026</data>
-    <nomeCurto>8ºBPM</nomeCurto>
+  <rota name="MG" cidade="JANAÚBA">
+    <data>30/06/2026</data>
+    <nomeCurto>51ºBPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 11:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="LAVRAS">
-    <data>19/06/2026</data>
-    <nomeCurto>8ºBPM</nomeCurto>
+  <rota name="MG" cidade="JANAÚBA">
+    <data>30/06/2026</data>
+    <nomeCurto>PTRESÍDIO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
+    <horario>Horário de 13:00 às 14:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -550,26 +316,8 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="MANHUAÇU">
-    <data>11/06/2026</data>
-    <nomeCurto>11ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="MANHUAÇU">
-    <data>12/06/2026</data>
-    <nomeCurto>11ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 09:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="MANHUAÇU">
     <data>30/06/2026</data>
-    <nomeCurto>11ºBPM</nomeCurto>
+    <nomeCurto>11ºBPM - (CANCELADA)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 14:00 às 18:00</horario>
@@ -578,7 +326,7 @@
   </rota>
   <rota name="MG" cidade="MANHUAÇU">
     <data>01/07/2026</data>
-    <nomeCurto>11ºBPM</nomeCurto>
+    <nomeCurto>11ºBPM - (CANCELADA)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 13:30</horario>
@@ -587,7 +335,7 @@
   </rota>
   <rota name="MG" cidade="MANHUMIRIM">
     <data>30/06/2026</data>
-    <nomeCurto>11ºBPM</nomeCurto>
+    <nomeCurto>11ºBPM - (CANCELADA)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 09:00</horario>
@@ -609,6 +357,15 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 11:00 às 13:00</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
+  <rota name="MG" cidade="MONTE AZUL">
+    <data>01/07/2026</data>
+    <nomeCurto>PMMG / PRESÍDIO</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 11:00 às 12:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -639,51 +396,6 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="NEPOMUCENO">
-    <data>02/06/2026</data>
-    <nomeCurto>8ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 15:30 às 16:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="NOVA SERRANA">
-    <data>02/06/2026</data>
-    <nomeCurto>60ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 17:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="NOVA SERRANA">
-    <data>02/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 14:00 às 15:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="NOVA SERRANA">
-    <data>03/06/2026</data>
-    <nomeCurto>60ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PARÁ DE MINAS">
-    <data>01/06/2026</data>
-    <nomeCurto>COMPLEXO PENITENCIÁRIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 14:00 às 16:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="PASSOS">
     <data>22/06/2026</data>
     <nomeCurto>PRESÍDIO</nomeCurto>
@@ -702,117 +414,9 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="PATOS DE MINAS">
-    <data>17/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:30 às 17:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PATOS DE MINAS">
-    <data>18/06/2026</data>
-    <nomeCurto>15ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 13:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PATOS DE MINAS">
-    <data>18/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 14:00 às 16:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PATROCÍNIO">
-    <data>16/06/2026</data>
-    <nomeCurto>PENITENCIÁRIA</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:30 às 17:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PATROCÍNIO">
-    <data>17/06/2026</data>
-    <nomeCurto>46ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PATROCÍNIO">
-    <data>17/06/2026</data>
-    <nomeCurto>PENITENCIÁRIA</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 13:00 às 14:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PERDÕES">
-    <data>01/06/2026</data>
-    <nomeCurto>8ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 13:00 às 14:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PIRAPORA">
-    <data>08/06/2026</data>
-    <nomeCurto>55ºBPM/CBMMG</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:30 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PIRAPORA">
-    <data>09/06/2026</data>
-    <nomeCurto>55ºBPM/CBMMG</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PIRAPORA">
-    <data>09/06/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 12:00 às 13:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="PIRAPORA">
-    <data>12/06/2026</data>
-    <nomeCurto>55ºBPM/CBMMG</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="POÇOS DE CALDAS">
-    <data>17/06/2026</data>
-    <nomeCurto>18ªRPM - ALTERADO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 15:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="PONTE NOVA">
     <data>02/07/2026</data>
-    <nomeCurto>COMPLEXO PENITENCIÁRIO</nomeCurto>
+    <nomeCurto>COMPLEXO PENITENCIÁRIO - (CANCELADA)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 16:30 às 18:00</horario>
@@ -821,28 +425,28 @@
   </rota>
   <rota name="MG" cidade="PONTE NOVA">
     <data>03/07/2026</data>
-    <nomeCurto>21ªCIA PM IND</nomeCurto>
+    <nomeCurto>21ªCIA PM IND - (CANCELADA)</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 09:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="POUSO ALEGRE">
-    <data>15/06/2026</data>
-    <nomeCurto>20ºBPM</nomeCurto>
+  <rota name="MG" cidade="PORTEIRINHA">
+    <data>30/06/2026</data>
+    <nomeCurto>PRESÍDIO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 16:00 às 18:00</horario>
+    <horario>Horário de 15:30 às 16:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="POUSO ALEGRE">
-    <data>16/06/2026</data>
-    <nomeCurto>20ºBPM</nomeCurto>
+  <rota name="MG" cidade="PORTEIRINHA">
+    <data>01/07/2026</data>
+    <nomeCurto>236ª CIA PM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 15:30</horario>
+    <horario>Horário de 14:00 às 15:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -861,24 +465,6 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 09:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="SÃO FRANCISCO">
-    <data>10/06/2026</data>
-    <nomeCurto>PMMG/PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="SÃO GOTARDO">
-    <data>19/06/2026</data>
-    <nomeCurto>15ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -927,60 +513,6 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="SETE LAGOAS">
-    <data>11/06/2026</data>
-    <nomeCurto>19ªRPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="SETE LAGOAS">
-    <data>12/06/2026</data>
-    <nomeCurto>19ªRPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="SETE LAGOAS">
-    <data>12/06/2026</data>
-    <nomeCurto>25ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 10:30 às 13:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="TEÓFILO OTONI">
-    <data>09/06/2026</data>
-    <nomeCurto>19ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 15:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="TEÓFILO OTONI">
-    <data>16/06/2026</data>
-    <nomeCurto>19ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 14:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="TRÊS CORAÇÕES">
-    <data>18/06/2026</data>
-    <nomeCurto>PENITENCIÁRIA</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 13:00 às 15:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="UBÁ">
     <data>01/07/2026</data>
     <nomeCurto>21ºBPM</nomeCurto>
@@ -996,33 +528,6 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 17:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="VARGINHA">
-    <data>17/06/2026</data>
-    <nomeCurto>PRESÍDIO - CANCELADO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="VARGINHA">
-    <data>18/06/2026</data>
-    <nomeCurto>24ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="VÁRZEA DA PALMA">
-    <data>08/06/2026</data>
-    <nomeCurto>55ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 14:30 às 15:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
