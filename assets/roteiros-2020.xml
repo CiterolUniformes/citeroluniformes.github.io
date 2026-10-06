@@ -55,24 +55,6 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="BARBACENA">
-    <data>30/09/2026</data>
-    <nomeCurto>9ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 13:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="BARBACENA">
-    <data>30/09/2026</data>
-    <nomeCurto>HOSPITAL PSIQUIÁTRICO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 14:00 às 17:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="BARBACENA">
     <data>01/10/2026</data>
     <nomeCurto>9ºBPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
@@ -262,15 +244,6 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="CORONEL FABRICIANO">
-    <data>30/09/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:30 às 17:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="CORONEL FABRICIANO">
     <data>01/10/2026</data>
     <nomeCurto>58ºBPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
@@ -361,33 +334,6 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="GOVERNADOR VALADARES">
-    <data>28/09/2026</data>
-    <nomeCurto>PACA</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 15:00 às 17:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GOVERNADOR VALADARES">
-    <data>29/09/2026</data>
-    <nomeCurto>6ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 13:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GOVERNADOR VALADARES">
-    <data>29/09/2026</data>
-    <nomeCurto>PACA</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 14:00 às 15:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="GOVERNADOR VALADARES">
     <data>21/10/2026</data>
     <nomeCurto>PRESÍDIO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
@@ -411,24 +357,6 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 13:30 às 15:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="IPABA">
-    <data>30/09/2026</data>
-    <nomeCurto>14ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="IPABA">
-    <data>30/09/2026</data>
-    <nomeCurto>PENITENCIÁRIA</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 11:00 às 14:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -964,33 +892,6 @@
     <mapa> </mapa>
   </rota>
   <rota name="MG" cidade="SÃO JOÃO DEL REI">
-    <data>28/09/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 17:30</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="SÃO JOÃO DEL REI">
-    <data>29/09/2026</data>
-    <nomeCurto>38ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 15:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="SÃO JOÃO DEL REI">
-    <data>29/09/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 17:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="SÃO JOÃO DEL REI">
     <data>19/10/2026</data>
     <nomeCurto>PRESÍDIO</nomeCurto>
     <nomeCompleto> </nomeCompleto>
@@ -1149,42 +1050,6 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 08:00 às 15:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="UNAÍ">
-    <data>29/09/2026</data>
-    <nomeCurto>28ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 15:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="UNAÍ">
-    <data>29/09/2026</data>
-    <nomeCurto>PRESÍDIO</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 16:00 às 18:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="UNAÍ">
-    <data>30/09/2026</data>
-    <nomeCurto>28ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 11:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
-  <rota name="MG" cidade="UNAÍ">
-    <data>30/09/2026</data>
-    <nomeCurto>PENITENCIÁRIA</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 13:00 às 16:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
