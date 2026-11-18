@@ -104,7 +104,7 @@
     <nomeCurto>70ºBPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 08:00 às 10:00</horario>
+    <horario>Horário de 08:00 às 09:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -351,15 +351,6 @@
     <site> </site>
     <mapa> </mapa>
   </rota>
-  <rota name="MG" cidade="GOVERNADOR VALADARES">
-    <data>27/11/2026</data>
-    <nomeCurto>6ºBPM</nomeCurto>
-    <nomeCompleto> </nomeCompleto>
-    <endereco> </endereco>
-    <horario>Horário de 08:00 às 09:00</horario>
-    <site> </site>
-    <mapa> </mapa>
-  </rota>
   <rota name="MG" cidade="GUARANÉSIA/GUAXUPÉ">
     <data>11/11/2026</data>
     <nomeCurto>PRESÍDIO</nomeCurto>
@@ -375,6 +366,15 @@
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
     <horario>Horário de 13:00 às 15:00</horario>
+    <site> </site>
+    <mapa> </mapa>
+  </rota>
+  <rota name="MG" cidade="ITABIRA">
+    <data>27/11/2026</data>
+    <nomeCurto>26ºBPM</nomeCurto>
+    <nomeCompleto> </nomeCompleto>
+    <endereco> </endereco>
+    <horario>Horário de 08:00 às 11:00</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
@@ -410,7 +410,7 @@
     <nomeCurto>70ºBPM</nomeCurto>
     <nomeCompleto> </nomeCompleto>
     <endereco> </endereco>
-    <horario>Horário de 12:00 às 14:00</horario>
+    <horario>Horário de 10:00 às 11:30</horario>
     <site> </site>
     <mapa> </mapa>
   </rota>
